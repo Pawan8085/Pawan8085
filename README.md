@@ -1,4 +1,4 @@
-<img src="https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg">
+
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 <h3 align="center">A passionate Software Developer...</h3>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring..**
 
-- 👨‍💻 My portfolio [http://Pawan8085.github.io](http://Pawan8085.github.io)
+- 👨‍💻 My linkedin [linkedin.com/in/pawan-kumar-8589b3232)
 
 - 💬 Ask me about **Java, Spring.**
 
