@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring..**
 
-- 👨‍💻 My linkedin [linkedin.com/in/pawan-kumar-8589b3232)
+- 👨‍💻 My linkedin [http://linkedin.com/in/pawan-kumar-8589b3232)
 
 - 💬 Ask me about **Java, Spring.**
 
