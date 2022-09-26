@@ -1,19 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">A passionate java backend developer who loves to create java application. Curious about learning new things</h3>
+<h3 align="center">A passionate java backend developer who loves to create java application. Curious about learning new things. Would like to work and grove your association...</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan8085&label=Profile%20views&color=0e75b6&style=flat" alt="pawan8085" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring..**
+- 🌱 I’m currently learning **Java backend development course from Masai School Banglore**
 
-- 👨‍💻 My linkedin [http://linkedin.com/in/pawan-kumar-8589b3232)
+- 🔭 Good in **Core Java, SQL**
 
-- 💬 Ask me about **Java, Spring.**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **kumarpawanm8085@gmail.com**
+
+- 👨‍💻 My linkedin [http://linkedin.com/in/pawan-kumar-8589b3232)
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
