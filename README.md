@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">A passionate java backend developer who loves to create java application. Curious about learning new things. Would like to work and grove your association...</h3>
+<h3 align="center">Aspiring Java Backend developer with knowledge of backend
+technologies who loves to create spring boot applications,
+restful APIs, backend applications..</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan8085&label=Profile%20views&color=0e75b6&style=flat" alt="pawan8085" /> </p>
