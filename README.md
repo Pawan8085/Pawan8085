@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">Aspiring Java Backend developer with knowledge of backend
+<h3 align="center">Aspiring Java Backend developer with knowledge on backend
 technologies who loves to create spring boot applications,
 restful APIs, backend applications..</h3>
 
