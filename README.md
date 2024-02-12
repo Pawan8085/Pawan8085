@@ -19,7 +19,7 @@
 
  - 👨‍💻 My portfolio [(https://pawan8085.github.io/)
 
-- 📄 My Resume https://docs.google.com/document/d/1zdoaVQT_M78TUUsbr3pHI-qwDSE3xePt227oKgkWOeE/edit
+- 📄 My Resume https://drive.google.com/file/d/1UNcVcTQ38embTXArj8c-yNqpZ4ajf-LG/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
