@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kumarpawanm8085@gmail.com**
 
-- 👨‍💻 My linkedin [http://linkedin.com/in/pawan-kumar-8589b3232)
+- 👨‍💻 My linkedin [https://www.linkedin.com/in/pawan1510/)
 
  - 👨‍💻 My portfolio [(https://pawan8085.github.io/)
 
