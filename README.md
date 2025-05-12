@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">Passionate Java Backend Developer skilled in Java, have completed java backend development course from Masai School. Love to learning new things in Programming. Looking for environment there i can learn new things, work on new technologies, skilled my self more..</h3>
+<h3 align="center">Passionate Java Developer with a solid understanding of Java technologies and hands-on
+experience in building projects using Java and Spring Boot. Seeking an opportunity to join
+an organization where I can learn new things and enhance my skills.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan8085&label=Profile%20views&color=0e75b6&style=flat" alt="pawan8085" /> </p>
