@@ -9,7 +9,7 @@ an organization where I can learn new things and enhance my skills.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java backend development course from Masai School Banglore**
+- 🌱 I’m currently learning **Java backend development**
 
 - 🔭 Good in **Core Java, SQL, Spring, Hibernate**
 
